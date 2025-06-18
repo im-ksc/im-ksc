@@ -1,18 +1,50 @@
-About Me
+# Kin Seng Chan
 
-I am a passionate student with a keen interest in technology innovation, application development, and problem solving. I enjoy building applications from scratch and have hands-on experience across a diverse tech stack, including:
+**Student | Technologist | Builder**
 
-Languages & Frameworks: Java, Python, JavaScript, HTML, CSS, C#, Kotlin
-Frameworks & Libraries: Spring Boot, Selenium, ReactJS, TailwindCSS
-Mobile & AI: Android Native Development, PyTorch
-Data: Pandas
-Database: MySQL
-Project Highlight:
+[![LinkedIn: Kin Seng Chan](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kin-seng-chan-08998995/)
 
-ShoppingCart_Team2_SA60: A full-stack shopping cart application developed using Spring Boot (backend), MySQL (database), and ReactJS (frontend).
-Fun Fact:
-I also build computers!
+---
 
-Connect with me:
-LinkedIn: Kin Seng Chan
+## 👋 About Me
 
+I am a passionate student with a keen interest in technology innovation, building applications from scratch, and solving problems. I enjoy exploring new technologies and bringing ideas to life—sometimes even by assembling computers myself!
+
+---
+
+## 💻 Skills
+
+- **Programming Languages:** Java, Python, JavaScript, HTML, CSS, C#, Kotlin
+- **Frameworks & Libraries:** Spring Boot, Selenium, ReactJS, TailwindCSS
+- **Mobile & AI:** Android Native, PyTorch
+- **Data Science:** Pandas
+- **Database:** MySQL
+
+---
+
+## 🛒 Project Highlight
+
+### [ShoppingCart_Team2_SA60](https://github.com/Team-2-SA60/ShoppingCart_Team2_SA60)
+A full-stack shopping cart application built with:
+- **Backend:** Spring Boot
+- **Frontend:** ReactJS
+- **Database:** MySQL
+
+---
+
+## 🚀 Interests
+
+- Technology innovation
+- Building apps from scratch
+- Problem solving
+- Computer hardware assembly
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kin-seng-chan-08998995/)
+
+---
+
+> _“I build computers!”_
