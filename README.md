@@ -1,6 +1,6 @@
 # Kin Seng
 
-**Student | Technologist | Builder**
+**Student | Aspiring Full-Stack Software Engineer**
 
 [![LinkedIn: Kin Seng Chan](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kin-seng-chan-08998995/)
 
@@ -27,9 +27,3 @@ I am a passionate student with a keen interest in technology innovation, buildin
 - Technology innovation
 - Problem solving
 - Computer hardware assembly
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kin-seng-chan-08998995/)
