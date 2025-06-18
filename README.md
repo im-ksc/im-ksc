@@ -1,4 +1,4 @@
-# Kin Seng Chan
+# Kin Seng
 
 **Student | Technologist | Builder**
 
@@ -22,20 +22,9 @@ I am a passionate student with a keen interest in technology innovation, buildin
 
 ---
 
-## 🛒 Project Highlight
-
-### [ShoppingCart_Team2_SA60](https://github.com/Team-2-SA60/ShoppingCart_Team2_SA60)
-A full-stack shopping cart application built with:
-- **Backend:** Spring Boot
-- **Frontend:** ReactJS
-- **Database:** MySQL
-
----
-
 ## 🚀 Interests
 
 - Technology innovation
-- Building apps from scratch
 - Problem solving
 - Computer hardware assembly
 
@@ -44,7 +33,3 @@ A full-stack shopping cart application built with:
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/kin-seng-chan-08998995/)
-
----
-
-> _“I build computers!”_
