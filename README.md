@@ -1,6 +1,4 @@
-# Kin Seng
-
-**Student | Aspiring Full-Stack Software Engineer**
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=800&width=435&lines=Chan+Kin+Seng;Student+at+NUS-ISS;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn: Kin Seng Chan](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/kin-seng-chan-08998995/)
 
